@@ -1,0 +1,27 @@
+Als ik heel eerlijk ben weet ik niet zo heel veel van programmeren af, dus ik heb vooral gekeken naar wat er in de les gezegd werd :)
+
+Welke objecten spelen volgens jou een rol?
+- De main
+- De ofApp
+- Een particle Emitter
+- Een particle Behaviour
+
+Wat zijn de attributen (variabelen) van die objecten?
+Een void en een update 
+
+
+
+Wat voor gedrag (methodes) moeten die objecten hebben?
+
+- De main
+Hierin staan de basis opstart dingen, zoals de schermgrootte van de applicatie en welke object er als eerste gestart wordt hierna (de ofApp). 
+
+- De ofApp
+Hierin staan alleen voids, wat betekend dat hierin standaard vasgelegde waardes en regels worden aangegeven. Deze kunnen overschreven worden door de update die in andere objecten staan.
+
+- Een particle Emitter 
+Hierin wordt aangegeven hoe de particle zich gedraagd en waar de emitter bijvoorbeeld geplaatst wordt. Hier wordt ook aangegeven welke kleur de particles bijvoorbeeld hebben.
+
+- Een Emitter Behaviour
+Ik denk dat ik het verkeerd omschrijf, maar ik bedoel ermee hoe de emitter precies wordt toegepast. In het voorbeeld zag je een emitter die de bewegingen van de muis volgde
+
